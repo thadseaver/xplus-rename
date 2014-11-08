@@ -34,13 +34,13 @@ In the above examples, your .js files would be named default_xss.js and default_
 
 ### Example: ###
 
-Say, instead of 'Comment', you want it to say 'Operation Comment'. Find the line of code that has the existing name in the first set of single quotes and edit the 'Your text here' on that same line in the second set of single quotes. (This script contains every column option available in X+ Setup Sheet and Tool List.) So this line:
+Say, instead of 'Tl name', you want it to say 'Tool name'. Find the line of code that has the existing name in the first set of single quotes and edit the 'Your text here' on that same line in the second set of single quotes. (This script contains every column option available in X+ Setup Sheet and Tool List.) So this line:
 
-`//colNames[i].innerHTML = colNames[i].innerHTML.replace('Comment', 'Your text here');`
+`//colNames[i].innerHTML = colNames[i].innerHTML.replace('Tl name', 'Your text here');`
 
 should be changed to this:
 
-`colNames[i].innerHTML = colNames[i].innerHTML.replace('Comment', 'Operation Comment');`
+`colNames[i].innerHTML = colNames[i].innerHTML.replace('Tl name', 'Tool name');`
 
 ![](images/before-and-after.png)
 
