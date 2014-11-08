@@ -46,5 +46,5 @@ should be changed to this:
 
 ### Notes: ###
 
-If you use Internet Explorer as your browser, you may have to accept the use of this script and "allow blocked content" when you see the popup. This script has been tested in Firefox, Chrome, and IE 10.
+If you use Internet Explorer as your browser, you may have to accept the use of this script and "allow blocked content" when you see the popup.
 
