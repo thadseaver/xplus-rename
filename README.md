@@ -1,7 +1,15 @@
 xplus-rename
 ============
 
-A Javascript file to work in conjunction with the Mastercam addon X+ Setup Sheet. This does not work with the Excel setup sheet and tool list.
+A Javascript file to work in conjunction with the Mastercam add-on X+ Setup Sheet. This does not work with the Excel setup sheet and tool list.
+
+## General ##
+
+[Mastercam](http://www.mastercam.com/en-us/ "Mastercam") is a CAD/CAM package that creates toolpaths to drive your CNC machines. [X+](http://gmccs.de/?page=downloads.php&dl_grp=8&pt=X%2B+Tool+Downloads "X+") is a free add-on that creates setup sheets and tool lists from those toolpaths so the machine operator has a road map of how to set the job up, what tools are needed, how the part is being machined, etc.
+
+The setup sheet and tool list can be output in HTML or Excel format. HTML output allows you to use your own Javascript file for further customization. My Javascript file allows you to change the column names of your setup sheet and tool list.
+
+Since X+ is configurable to use as few or as many columns as you'd like in your setup sheets, I have included every column option available in X+ in this script. 
 
 ## About the script ##
 
@@ -15,7 +23,7 @@ This file does not add any extra functionality to X+ Setup Sheet and Tool List. 
 
 ## How to use it ##
 
-1) Unzip and place this file in the .../public/documents/X+ folder with the rest of the X+ files. You may have to rename this file, but we'll get to that in a few minutes.
+1) Download the [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/cfcd031c530b43805d7902a0c227ed9bbc23421c/js/default_xss.js "Setup sheet") and/or [Tool List](https://github.com/thadseaver/xplus-rename/blob/cfcd031c530b43805d7902a0c227ed9bbc23421c/js/default_tl.js "Tool List") Javascript files and place them in your .../public/documents/X+ folder with the rest of the X+ files.
 
 ### Rename the .js file to match your configuration name. ###
 
@@ -24,7 +32,7 @@ This file does not add any extra functionality to X+ Setup Sheet and Tool List. 
 ![](images/sheet-file-name.png)
 ![](images/tl-file-name.png)
 
-In the above examples, your .js files would be named default_xss.js and default_tl.js. 
+In the above examples, your .js files would be named default\_xss.js and default\_tl.js. 
 
 ### Change the column names ###
 
@@ -47,4 +55,5 @@ should be changed to this:
 ### Notes: ###
 
 If you use Internet Explorer as your browser, you may have to accept the use of this script and "allow blocked content" when you see the popup.
+
 
