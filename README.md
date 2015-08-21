@@ -29,6 +29,8 @@ This file does not add any extra functionality to X+ Setup Sheet and Tool List. 
 
 *Note: Files for Mastercam X8 are now available. [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/291ccbda1583398167dfd0861230621757f31af2/js/default_xss_x8.js "X8 Setup Sheet"), [Tool List](https://github.com/thadseaver/xplus-rename/blob/291ccbda1583398167dfd0861230621757f31af2/js/default_tl_x8.js "X8 Tool List").
 
+*Note: Files for Mastercam X9 are now available. [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/cecfdbf6e81846cd1abbd4829e8ec1726132b443/js/default_xss_x9.js "X9 Setup Sheet"), [Tool List](https://github.com/thadseaver/xplus-rename/blob/cecfdbf6e81846cd1abbd4829e8ec1726132b443/js/default_tl_x9.js "X9 Tool List").
+
 ### Rename the .js file to match your configuration name. ###
 
 2) Maybe you have a different configuration file for each machine? No problem! For each of your different configuration files, name a copy of the .js file by the same name. Your configuration file names can be found here.
