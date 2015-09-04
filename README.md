@@ -5,7 +5,7 @@ A Javascript file to work in conjunction with the Mastercam add-on X+ Setup Shee
 
 ## General ##
 
-[Mastercam](http://www.mastercam.com/en-us/ "Mastercam") is a CAD/CAM package that creates toolpaths to drive your CNC machines. [X+](http://gmccs.de/?page=downloads.php&dl_grp=8&pt=X%2B+Tool+Downloads "X+") is a free add-on that creates setup sheets and tool lists from those toolpaths so the machine operator has a road map of how to set the job up, what tools are needed, how the part is being machined, etc.
+[Mastercam](http://www.mastercam.com/en-us/ "Mastercam") is a CAD/CAM package that creates toolpaths to drive your CNC machines. [X+](http://gmccs.de/downloads_x+.php "X+") is a free add-on that creates setup sheets and tool lists from those toolpaths so the machine operator has a road map of how to set the job up, what tools are needed, how the part is being machined, etc.
 
 The setup sheet and tool list can be output in HTML or Excel format. HTML output allows you to use your own Javascript file for further customization. These Javascript files allow you to change the column names of your setup sheet and tool list.
 
