@@ -27,9 +27,11 @@ This file does not add any extra functionality to X+ Setup Sheet and Tool List. 
 
 1) Download the [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/cfcd031c530b43805d7902a0c227ed9bbc23421c/js/default_xss.js "Setup sheet") and/or [Tool List](https://github.com/thadseaver/xplus-rename/blob/cfcd031c530b43805d7902a0c227ed9bbc23421c/js/default_tl.js "Tool List") Javascript files for Mastercam X6 and X7 and place them in your .../public/documents/X+ folder with the rest of the X+ files.
 
-*Note: Files for Mastercam X8 are now available. [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/291ccbda1583398167dfd0861230621757f31af2/js/default_xss_x8.js "X8 Setup Sheet"), [Tool List](https://github.com/thadseaver/xplus-rename/blob/291ccbda1583398167dfd0861230621757f31af2/js/default_tl_x8.js "X8 Tool List").
+Mastercam X8:  [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/291ccbda1583398167dfd0861230621757f31af2/js/default_xss_x8.js "X8 Setup Sheet"), [Tool List](https://github.com/thadseaver/xplus-rename/blob/291ccbda1583398167dfd0861230621757f31af2/js/default_tl_x8.js "X8 Tool List")
 
-*Note: Files for Mastercam X9 are now available. [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/cecfdbf6e81846cd1abbd4829e8ec1726132b443/js/default_xss_x9.js "X9 Setup Sheet"), [Tool List](https://github.com/thadseaver/xplus-rename/blob/cecfdbf6e81846cd1abbd4829e8ec1726132b443/js/default_tl_x9.js "X9 Tool List").
+Mastercam X9:  [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/cecfdbf6e81846cd1abbd4829e8ec1726132b443/js/default_xss_x9.js "X9 Setup Sheet"), [Tool List](https://github.com/thadseaver/xplus-rename/blob/cecfdbf6e81846cd1abbd4829e8ec1726132b443/js/default_tl_x9.js "X9 Tool List")
+
+Mastercam 2019:  [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/e07a55e5a4090fbdc248c4ade890b9a5cdef5a86/js/default_2019.js "2019 Setup Sheet")
 
 ### Rename the .js file to match your configuration name. ###
 
