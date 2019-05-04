@@ -31,7 +31,7 @@ Mastercam X8:  [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/291
 
 Mastercam X9:  [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/cecfdbf6e81846cd1abbd4829e8ec1726132b443/js/default_xss_x9.js "X9 Setup Sheet"), [Tool List](https://github.com/thadseaver/xplus-rename/blob/cecfdbf6e81846cd1abbd4829e8ec1726132b443/js/default_tl_x9.js "X9 Tool List")
 
-Mastercam 2019:  [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/e07a55e5a4090fbdc248c4ade890b9a5cdef5a86/js/default_2019.js "2019 Setup Sheet")
+Mastercam 2019:  [Setup Sheet](https://github.com/thadseaver/xplus-rename/blob/e07a55e5a4090fbdc248c4ade890b9a5cdef5a86/js/default_2019.js "2019 Setup Sheet"), [Tool List](https://github.com/thadseaver/xplus-rename/blob/97a7ea81f638cda5e2f6f5285efd9417da3d2d8d/js/default_tl_2019.js "2019 Tool List")
 
 ### Rename the .js file to match your configuration name. ###
 
